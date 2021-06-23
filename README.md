@@ -1,5 +1,5 @@
 # registry-viewer
-## UI for the Devfile Registry
+## UI for the Devfile Registry HAHA
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create next-app --example with-patternfly`](https://github.com/vercel/next.js/tree/canary/examples/with-patternfly).
 
